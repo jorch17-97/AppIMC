@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IMC1</string>
+    <string name="Texto_etiqueta_peso" >Proporcione el peso</string>
+    <string name="texto_etiqueta_estatura">Proporcione la estatura</string>
+    <string name="texto_boton_calcular">Calcular</string>
+    <string name="texto_boton_limpiar">Limpiar</string>
+    <string name="texto_etiqueta_imc">El Indice de Masa Corporal (IMC) es: </string>
+</resources>
